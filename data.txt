@@ -1,2 +1,6 @@
-golu,molu
-hi,hello
+golu,molu,
+hi,hello,
+good evening,good evening,
+Good morning,Good morning
+Good night,Good night
+thnx thanks tq,You are welcome

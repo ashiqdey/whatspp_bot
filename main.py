@@ -105,7 +105,7 @@ def process_response(message):
 
     return str(result)
   else:
-    return "only math is supported"
+    return "only math is supported, try typing 'math 1+2'"
 
 
 
